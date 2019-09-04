@@ -29,7 +29,7 @@ Steps to Run the project on Linux based platform:
 2. terraform apply
 (terraform apply command is used to apply the changes on aws)
 
-- When you hit terraform apply, it will ask you a bucket name(in your case it's 'pipelines'), then it will ask you region in which you want to create Lambda and SQS.
+- When you hit terraform apply, it will ask you a bucket name, then it will ask you region in which you want to create Lambda and SQS.
 
 - Boom!!!! Your s3 event is set! Lambda is created! Sqs Queue is created!
 
