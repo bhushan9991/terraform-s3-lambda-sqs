@@ -19,7 +19,7 @@ Steps to Run the project on Linux based platform:
 
 - clone git repository on local.
 
-- cd s3-lambda-sqs/
+- cd terraform-s3-lambda-sqs/
 
 - run below commands under s3-lambda-sqs folder(in sequence)
 
